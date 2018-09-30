@@ -1,0 +1,17 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.2.30-release-Studio3.1-1" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="lastTip" value="7" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AndroidStudioProjects/TG&#10;C:/Users/Dell/AndroidStudioProjects/Mumbai&#10;C:/Program Files/Java/jdk1.8.0_151&#10;G:/AndroidStudioProjects/Mumbai&#10;C:/Users/Dell/AndroidStudioProjects/MyApplication&#10;C:/Users/Dell/AndroidStudioProjects/Travel-Guide&#10;C:/Users/Dell/AndroidStudioProjects/Mumbai/app&#10;E:/Setting/settings.jar" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.gist.reindex.count" value="413" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="android-component-compatibility-check" value="1527188176159" />
+  </component>
+</application>

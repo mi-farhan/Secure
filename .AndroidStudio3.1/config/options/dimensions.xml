@@ -1,0 +1,19 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1024.768" x="515" y="373" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1024.768" x="188" y="220" />
+    <location key="FileChooserDialogImpl.0.0.1024.768" x="314" y="108" />
+    <location key="SettingsEditor.0.0.1024.768" x="0" y="43" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1024.768" x="269" y="267" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1024.768" x="0" y="23" />
+    <location key="#Project_Structure.0.0.1024.768" x="77" y="36" />
+    <location key="WELCOME_SCREEN.0.0.1280.800" x="642" y="384" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.800" x="206" y="209" />
+    <location key="#app.0.0.1280.800" x="255" y="85" />
+    <location key="deploy.picker.dialog.0.0.1280.800" x="320" y="177" />
+    <location key="Github.ShareDialog.0.0.1280.800" x="432" y="298" />
+    <location key="Github.UntrackedFilesDialog.0.0.1280.800" x="308" y="99" />
+    <location key="SettingsEditor.0.0.1280.800" x="0" y="94" />
+    <location key="FileChooserDialogImpl.0.0.1280.800" x="422" y="141" />
+  </component>
+</application>

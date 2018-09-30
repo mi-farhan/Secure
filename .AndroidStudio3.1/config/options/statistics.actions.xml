@@ -1,0 +1,20 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="CleanGradleProject" count="1" />
+      <entry action="CloseProject" count="10" />
+      <entry action="ConfigureIcs" count="2" />
+      <entry action="EditorBackSpace" count="5" />
+      <entry action="EditorCopy" count="1" />
+      <entry action="Github.Share" count="8" />
+      <entry action="GoogleLogin.LoginService" count="4" />
+      <entry action="ImportSettings" count="1" />
+      <entry action="MakeGradleProject" count="2" />
+      <entry action="OpenFile" count="12" />
+      <entry action="RebuildGradleProject" count="3" />
+      <entry action="Run" count="4" />
+      <entry action="ShowSettings" count="2" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="1" />
+      <entry path="Build -&gt; Make Project" count="1" />
+      <entry path="Build -&gt; Rebuild Project" count="3" />
+      <entry path="File -&gt; Close Project" count="10" />
+      <entry path="File -&gt; Import Settings..." count="1" />
+      <entry path="File -&gt; Open..." count="12" />
+      <entry path="File -&gt; Project Structure..." count="3" />
+      <entry path="File -&gt; Settings Repository…" count="2" />
+      <entry path="File -&gt; Settings..." count="2" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="8" />
+    </counts>
+  </component>
+</application>
